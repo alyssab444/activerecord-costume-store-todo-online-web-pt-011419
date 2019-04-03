@@ -1,7 +1,7 @@
 class CreateCostumeStores < ActiveRecord::Migration[4.2] 
   
   def change 
-    add_column :costume, :name, :string 
+    create_table :costume, :name, :string 
     
     
     

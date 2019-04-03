@@ -1,1 +1,1 @@
-# Create your costume_stores migration here
+class CostumeStores# Create your costume_stores migration here

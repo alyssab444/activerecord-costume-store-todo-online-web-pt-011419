@@ -4,7 +4,8 @@ class CreateCostumeStores < ActiveRecord::Migration
     add_column :costume, :name, :string 
     add_column :costume, :location, :string
     add_column :costume, :costume_inventory, :integer
-    add_column :costume, :number_of_empoloyees, :integer
+    add_column :costume, :num_of_empoloyees, :integer
+    add_column :costume, :
     
     
   end 

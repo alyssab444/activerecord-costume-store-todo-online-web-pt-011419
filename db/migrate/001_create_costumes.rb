@@ -8,7 +8,7 @@ class CreateCostumes< ActiveRecord::Migration
       t.string :image_url 
       t.timestamp 
     end 
-    
+     
   end 
   
   
